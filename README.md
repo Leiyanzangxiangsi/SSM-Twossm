@@ -9,4 +9,4 @@ SSM框架：spring + springmvc + Mybatis组成
 
 3、spring mvc 由表现层，服务层和持久层组成
 
-4、Mabatis用来管理数据库的数据
+4、Mabatis用来操作数据库的数据
