@@ -2,7 +2,7 @@ package com.gx.domain;
 
 import java.io.Serializable;
 
-// 数据库
+// 数据库,实体类，其实这个可以用@data来完成
 public class Account implements Serializable {
     private Integer id;
     private String name;
